@@ -10,9 +10,10 @@ https://github.com/psycothegamer/DDOS-BY-ADAMZ.git
 cd DDOS-BY-ADAMZ
 
 
-chmod +x psyco.py
+chmod +x ADAMZ.py
 
 
-python psyco.py
+python ADAMZ.py
 
 
+(FOLLOW ME FOR MORE)
