@@ -20,7 +20,6 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attacker")
 print
-print "Author   : ADAMZ"
 print "github   : https://github.com/psycothegamer/DDOS-BY-ADAMZ.git"
 print "Facebook : https://www.facebook.com/PSYCOADAMZ"
 print
@@ -28,7 +27,7 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack Starting by Adamz")
+os.system("figlet Attack Starting by now")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
