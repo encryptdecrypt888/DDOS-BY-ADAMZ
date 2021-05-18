@@ -2,7 +2,7 @@
 CHECK IT MY TOOL FOR DDOS ATTACK
 
 
-https://github.com/psycothegamer/DDOS-BY-ADAMZ.git
+ git clone https://github.com/psycothegamer/DDOS-BY-ADAMZ.git
 
 
 
