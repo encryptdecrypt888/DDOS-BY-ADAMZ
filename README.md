@@ -13,6 +13,9 @@ cd DDOS-BY-ADAMZ
 chmod +x ADAMZ.py
 
 
+apt install python
+
+
 python ADAMZ.py
 
 
